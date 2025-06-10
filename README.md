@@ -41,3 +41,13 @@ Enter your choice: 2
 
 Your Expenses:
 1. Lunch - ₹200
+
+---
+
+## 📈 Planned Features
+-  Categorize expenses (Food, Travel, etc.)
+-  Export data to CSV or Excel
+-  GUI version using Tkinter (in progress)
+-  Web version using Django (future learning goal)
+
+---
