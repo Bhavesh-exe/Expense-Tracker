@@ -22,3 +22,22 @@ A simple and interactive **command-line based Expense Tracker** built in Python 
 - Interface: **Command Line Interface (CLI)**
 
 ---
+
+## Sample CLI Output
+==== EXPENSE TRACKER ====
+1. Add Expense
+2. View Expenses
+3. Exit
+Enter your choice: 1
+Enter description: Lunch
+Enter amount: 200
+Expense added!
+
+==== EXPENSE TRACKER ====
+1. Add Expense
+2. View Expenses
+3. Exit
+Enter your choice: 2
+
+Your Expenses:
+1. Lunch - ₹200
