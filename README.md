@@ -1,7 +1,5 @@
 # Expense-Tracker
 
-![Python Version](https://img.shields.io/badge/python-3.8+-blue.svg)
-![Status](https://img.shields.io/badge/status-active-brightgreen.svg)
 
 A clean, modern, and offline-first desktop application for tracking your daily expenses. Built with Python and CustomTkinter, this project focuses on simplicity, privacy, and giving you total control over your financial data.
 
@@ -48,7 +46,7 @@ If you have Python installed and want to run the code yourself, follow these ste
 
 1.  **Clone the repository:**
     ```sh
-    git clone [https://github.com/Bhavesh-exe/Expense-Tracker.git](https://github.com/Bhavesh-exe/Expense-Tracker.git)
+    git clone https://github.com/Bhavesh-exe/Expense-Tracker.git
     cd Expense-Tracker
     ```
 
