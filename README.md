@@ -4,6 +4,8 @@
 A clean, modern, and offline-first desktop application for tracking your daily expenses. Built with Python and CustomTkinter, this project focuses on simplicity, privacy, and giving you total control over your financial data.
 
 ---
+![TrackIt UI](output.gif)
+
 
 ## Key Features
 
