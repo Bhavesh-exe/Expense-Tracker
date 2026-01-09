@@ -1,0 +1,121 @@
+ID,Date,Amount,Category,Description
+1,2025-11-01,30,Food,Morning chai
+2,2025-11-01,15,Food,Samosa
+3,2025-11-02,30,Food,Chai
+4,2025-11-02,80,Food,Lunch thali
+5,2025-11-03,30,Food,Chai
+6,2025-11-03,150,Transport,Auto to college
+7,2025-11-04,30,Food,Chai
+8,2025-11-04,50,Food,Maggi
+9,2025-11-05,30,Food,Chai
+10,2025-11-05,200,Entertainment,Movie with friends
+11,2025-11-06,30,Food,Chai
+12,2025-11-06,100,Food,Dinner
+13,2025-11-07,30,Food,Chai
+14,2025-11-07,500,Shopping,T-shirt from Zudio
+15,2025-11-08,30,Food,Weekend chai
+16,2025-11-08,350,Entertainment,Party contribution
+17,2025-11-08,200,Food,Shawarma and drinks
+18,2025-11-09,30,Food,Chai
+19,2025-11-09,150,Transport,Cab
+20,2025-11-10,30,Food,Chai
+21,2025-11-10,249,Bills,Mobile recharge
+22,2025-11-11,30,Food,Chai
+23,2025-11-11,60,Food,Momos
+24,2025-11-12,30,Food,Chai
+25,2025-11-12,120,Food,Canteen lunch
+26,2025-11-13,30,Food,Chai
+27,2025-11-14,30,Food,Chai
+28,2025-11-14,800,Shopping,Headphones
+29,2025-11-15,30,Food,Chai
+30,2025-11-15,400,Entertainment,Bowling night
+31,2025-11-16,30,Food,Chai
+32,2025-11-16,250,Food,Pizza party
+33,2025-11-17,30,Food,Chai
+34,2025-11-18,30,Food,Chai
+35,2025-11-18,100,Transport,Metro
+36,2025-11-19,30,Food,Chai
+37,2025-11-20,30,Food,Chai
+38,2025-11-20,199,Entertainment,Netflix
+39,2025-11-21,30,Food,Chai
+40,2025-11-22,30,Food,Chai
+41,2025-11-22,300,Shopping,Book from Amazon
+42,2025-11-23,30,Food,Chai
+43,2025-11-23,500,Entertainment,Concert tickets
+44,2025-11-24,30,Food,Chai
+45,2025-11-25,30,Food,Chai
+46,2025-11-25,150,Food,Biryani
+47,2025-11-26,30,Food,Chai
+48,2025-11-27,30,Food,Chai
+49,2025-11-28,30,Food,Chai
+50,2025-11-28,200,Health,Medicine
+51,2025-11-29,30,Food,Chai
+52,2025-11-29,350,Transport,Uber
+53,2025-11-30,30,Food,Chai
+54,2025-11-30,600,Shopping,Shoes
+55,2025-12-01,30,Food,Chai
+56,2025-12-01,50,Food,Samosa
+57,2025-12-02,30,Food,Chai
+58,2025-12-02,120,Food,Lunch
+59,2025-12-03,30,Food,Chai
+60,2025-12-03,80,Transport,Auto
+61,2025-12-04,30,Food,Chai
+62,2025-12-05,30,Food,Chai
+63,2025-12-05,250,Entertainment,Movie
+64,2025-12-06,30,Food,Chai
+65,2025-12-06,400,Food,Restaurant dinner
+66,2025-12-07,30,Food,Weekend chai
+67,2025-12-07,500,Entertainment,Outing with friends
+68,2025-12-08,30,Food,Chai
+69,2025-12-09,30,Food,Chai
+70,2025-12-09,249,Bills,Mobile recharge
+71,2025-12-10,30,Food,Chai
+72,2025-12-10,100,Food,Canteen
+73,2025-12-11,30,Food,Chai
+74,2025-12-12,30,Food,Chai
+75,2025-12-12,150,Transport,Cab
+76,2025-12-13,30,Food,Chai
+77,2025-12-13,350,Shopping,Clothes
+78,2025-12-14,30,Food,Weekend chai
+79,2025-12-14,600,Entertainment,Weekend party
+80,2025-12-15,30,Food,Chai
+81,2025-12-16,30,Food,Chai
+82,2025-12-17,30,Food,Chai
+83,2025-12-17,80,Food,Dinner
+84,2025-12-18,30,Food,Chai
+85,2025-12-19,30,Food,Chai
+86,2025-12-19,199,Entertainment,Spotify yearly
+87,2025-12-20,30,Food,Chai
+88,2025-12-20,200,Food,Treat to friends
+89,2025-12-21,30,Food,Weekend chai
+90,2025-12-21,450,Shopping,Gift for mom
+91,2025-12-22,30,Food,Chai
+92,2025-12-23,30,Food,Chai
+93,2025-12-24,30,Food,Chai
+94,2025-12-24,300,Food,Christmas eve dinner
+95,2025-12-25,30,Food,Holiday chai
+96,2025-12-25,500,Entertainment,Christmas party
+97,2025-12-26,30,Food,Chai
+98,2025-12-27,30,Food,Chai
+99,2025-12-28,30,Food,Weekend chai
+100,2025-12-28,400,Entertainment,Year end party
+101,2025-12-29,30,Food,Chai
+102,2025-12-30,30,Food,Chai
+103,2025-12-31,30,Food,Chai
+104,2025-12-31,800,Entertainment,New Year party
+105,2026-01-01,30,Food,New Year chai
+106,2026-01-01,300,Food,Family lunch
+107,2026-01-02,30,Food,Chai
+108,2026-01-02,100,Transport,Metro
+109,2026-01-03,30,Food,Chai
+110,2026-01-04,30,Food,Chai
+111,2026-01-04,150,Food,Dinner
+112,2026-01-05,30,Food,Weekend chai
+113,2026-01-05,200,Entertainment,Movie
+114,2026-01-06,30,Food,Chai
+115,2026-01-07,30,Food,Chai
+116,2026-01-07,249,Bills,Mobile recharge
+117,2026-01-08,30,Food,Chai
+118,2026-01-08,80,Food,Canteen lunch
+119,2026-01-09,30,Food,Chai
+120,2026-01-09,60,Food,Evening snacks
