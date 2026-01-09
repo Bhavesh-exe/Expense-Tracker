@@ -6,7 +6,7 @@ A personal finance web app built with **Streamlit** and **Machine Learning** for
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-red)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.3+-orange)
 
-[Live Demo](https://your-app-name.streamlit.app) <!-- Replace with your deployed Streamlit link -->
+[Live Demo](https://expense-tracker-ml.streamlit.app/)
 
 ## Features
 
@@ -74,7 +74,3 @@ expense-tracker/
 - **Frontend**: Streamlit
 - **ML**: scikit-learn
 - **Data**: pandas, numpy
-
-## Author
-
-**Bhavesh Soni**
