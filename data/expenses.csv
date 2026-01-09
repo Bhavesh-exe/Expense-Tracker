@@ -1,0 +1,148 @@
+ID,Date,Amount,Category,Description
+1,2025-11-01,20,Food,Morning chai
+2,2025-11-01,35,Food,Samosa lunch
+3,2025-11-02,15,Food,Biscuits
+4,2025-11-02,25,Transport,Bus fare
+5,2025-11-03,40,Food,Canteen thali
+6,2025-11-03,10,Food,Evening chai
+7,2025-11-04,30,Food,Maggi night
+8,2025-11-04,20,Transport,Auto share
+9,2025-11-05,45,Food,Momos
+10,2025-11-05,15,Food,Chai snacks
+11,2025-11-06,25,Food,Pani puri
+12,2025-11-06,10,Transport,Campus bus
+13,2025-11-07,99,Bills,Mobile recharge
+14,2025-11-07,35,Food,Lunch canteen
+15,2025-11-08,80,Entertainment,Movie cheap show
+16,2025-11-08,50,Food,Popcorn drink share
+17,2025-11-08,30,Transport,Auto
+18,2025-11-09,20,Food,Breakfast
+19,2025-11-09,15,Food,Tea
+20,2025-11-10,40,Food,Biryani dhaba
+21,2025-11-10,25,Shopping,Notebook
+22,2025-11-11,30,Food,Street food
+23,2025-11-11,20,Transport,Metro
+24,2025-11-12,15,Food,Chai
+25,2025-11-12,35,Food,Dinner extra
+26,2025-11-13,50,Shopping,Pen marker set
+27,2025-11-13,25,Food,Canteen
+28,2025-11-14,120,Entertainment,Diwali party share
+29,2025-11-14,60,Food,Sweets share
+30,2025-11-14,40,Shopping,Diya candles
+31,2025-11-15,20,Food,Chai nashta
+32,2025-11-15,30,Food,Lunch
+33,2025-11-16,150,Entertainment,Trip contribution
+34,2025-11-16,45,Food,Roadside dhaba
+35,2025-11-16,50,Transport,Shared cab
+36,2025-11-17,25,Food,Maggi chai
+37,2025-11-17,15,Food,Biscuit
+38,2025-11-18,40,Food,Thali
+39,2025-11-18,20,Transport,Bus
+40,2025-11-19,30,Food,Chowmein
+41,2025-11-19,10,Food,Chai
+42,2025-11-20,35,Food,Samosa chole
+43,2025-11-20,99,Bills,Netflix share
+44,2025-11-21,25,Food,Canteen
+45,2025-11-21,15,Transport,Auto share
+46,2025-11-22,50,Food,Birthday treat received
+47,2025-11-22,20,Food,Chai
+48,2025-11-23,80,Shopping,Earphones cheap
+49,2025-11-23,30,Food,Dinner
+50,2025-11-24,15,Food,Breakfast
+51,2025-11-24,25,Food,Lunch
+52,2025-11-25,35,Food,Paratha
+53,2025-11-25,20,Transport,Metro
+54,2025-11-26,40,Food,Pizza slice
+55,2025-11-26,15,Food,Chai
+56,2025-11-27,30,Food,Momos
+57,2025-11-27,10,Transport,Bus
+58,2025-11-28,25,Food,Canteen
+59,2025-11-28,20,Food,Snacks
+60,2025-11-29,100,Entertainment,College fest
+61,2025-11-29,45,Food,Food stall
+62,2025-11-30,35,Food,Shawarma
+63,2025-11-30,15,Food,Chai
+64,2025-12-01,20,Food,Breakfast chai
+65,2025-12-01,30,Food,Lunch
+66,2025-12-02,15,Food,Biscuit chips
+67,2025-12-02,25,Transport,Bus fare
+68,2025-12-03,50,Food,Biryani
+69,2025-12-03,10,Food,Chai
+70,2025-12-04,35,Food,Canteen thali
+71,2025-12-04,20,Transport,Auto
+72,2025-12-05,40,Food,Momos
+73,2025-12-05,15,Food,Cold drink
+74,2025-12-06,25,Food,Samosa
+75,2025-12-06,99,Bills,Mobile recharge
+76,2025-12-07,30,Food,Maggi
+77,2025-12-07,20,Shopping,Stationery
+78,2025-12-08,120,Entertainment,Concert cheap ticket
+79,2025-12-08,50,Food,Food there
+80,2025-12-08,40,Transport,Cab share
+81,2025-12-09,20,Food,Breakfast
+82,2025-12-09,15,Food,Chai
+83,2025-12-10,45,Food,Dinner treat
+84,2025-12-10,25,Transport,Metro
+85,2025-12-11,30,Food,Street food
+86,2025-12-11,10,Food,Tea
+87,2025-12-12,35,Food,Canteen
+88,2025-12-12,60,Health,Medicines cold
+89,2025-12-13,40,Food,Soup khichdi
+90,2025-12-13,20,Food,Fruits
+91,2025-12-14,25,Food,Light lunch
+92,2025-12-14,15,Food,Chai
+93,2025-12-15,200,Entertainment,Weekend trip share
+94,2025-12-15,80,Food,Lunch dinner
+95,2025-12-15,60,Transport,Travel share
+96,2025-12-16,30,Food,Recovery meal
+97,2025-12-16,20,Food,Juice
+98,2025-12-17,35,Food,Normal canteen
+99,2025-12-17,10,Transport,Bus
+100,2025-12-18,45,Food,Friend treat bakso
+101,2025-12-18,25,Shopping,Gift wrap
+102,2025-12-19,50,Food,Pizza share
+103,2025-12-19,15,Food,Chai
+104,2025-12-20,99,Bills,Internet share
+105,2025-12-20,30,Food,Canteen
+106,2025-12-21,40,Food,Thali
+107,2025-12-21,20,Transport,Auto share
+108,2025-12-22,25,Food,Breakfast
+109,2025-12-22,35,Food,Lunch
+110,2025-12-23,60,Shopping,Secret santa gift
+111,2025-12-23,30,Food,Party food
+112,2025-12-24,150,Entertainment,Christmas party
+113,2025-12-24,45,Food,Cake pastry
+114,2025-12-24,25,Transport,Cab share
+115,2025-12-25,20,Food,Holiday brunch
+116,2025-12-25,40,Food,Dinner
+117,2025-12-26,15,Food,Chai
+118,2025-12-26,30,Food,Canteen
+119,2025-12-27,35,Food,Momos
+120,2025-12-27,10,Transport,Bus
+121,2025-12-28,25,Food,Samosa
+122,2025-12-28,20,Food,Snacks
+123,2025-12-29,45,Food,Biryani
+124,2025-12-29,15,Food,Chai
+125,2025-12-30,180,Entertainment,New year party share
+126,2025-12-30,60,Food,Party food
+127,2025-12-30,50,Transport,Cab
+128,2025-12-31,100,Entertainment,NYE celebration
+129,2025-12-31,40,Food,Snacks drinks
+130,2026-01-01,20,Food,New year chai
+131,2026-01-01,35,Food,Lunch special
+132,2026-01-02,15,Food,Normal breakfast
+133,2026-01-02,25,Transport,Bus
+134,2026-01-03,40,Food,Canteen thali
+135,2026-01-03,10,Food,Chai
+136,2026-01-04,30,Food,Maggi night
+137,2026-01-04,20,Transport,Auto
+138,2026-01-05,45,Food,Momos
+139,2026-01-05,15,Food,Snacks
+140,2026-01-06,99,Bills,Mobile recharge
+141,2026-01-06,25,Food,Canteen
+142,2026-01-07,35,Food,Street food
+143,2026-01-07,20,Shopping,Pen refills
+144,2026-01-08,50,Food,Biryani
+145,2026-01-08,15,Food,Chai
+146,2026-01-09,30,Food,Paratha
+147,2026-01-09,10,Transport,Bus

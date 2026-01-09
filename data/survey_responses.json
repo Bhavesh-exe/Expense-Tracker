@@ -1,0 +1,98 @@
+{
+  "responses": {
+    "1": {
+      "answer": "A",
+      "text": "Less than \u20b95,000",
+      "traits": {
+        "budget_level": "low",
+        "risk": 0
+      }
+    },
+    "2": {
+      "answer": "B",
+      "text": "Sometimes (1-2 times/week)",
+      "traits": {
+        "food_delivery": "medium",
+        "risk": 1
+      }
+    },
+    "3": {
+      "answer": "C",
+      "text": "Mostly outside restaurants",
+      "traits": {
+        "eating_habit": "spender",
+        "risk": 2
+      }
+    },
+    "4": {
+      "answer": "A",
+      "text": "Rarely (once a month or less)",
+      "traits": {
+        "social": "low",
+        "risk": 0
+      }
+    },
+    "5": {
+      "answer": "A",
+      "text": "No subscriptions",
+      "traits": {
+        "subscriptions": "none",
+        "risk": 0
+      }
+    },
+    "6": {
+      "answer": "B",
+      "text": "Once a month",
+      "traits": {
+        "shopping": "moderate",
+        "risk": 1
+      }
+    },
+    "7": {
+      "answer": "B",
+      "text": "Usually wait",
+      "traits": {
+        "buying_behavior": "patient",
+        "risk": 0
+      }
+    },
+    "8": {
+      "answer": "B",
+      "text": "Sometimes",
+      "traits": {
+        "tracking": "occasional",
+        "risk": 1
+      }
+    },
+    "9": {
+      "answer": "C",
+      "text": "Sometimes, when possible",
+      "traits": {
+        "saving": "occasional",
+        "risk": 1
+      }
+    },
+    "10": {
+      "answer": "D",
+      "text": "Often",
+      "traits": {
+        "money_management": "poor",
+        "risk": 3
+      }
+    }
+  },
+  "traits": {
+    "budget_level": "low",
+    "food_delivery": "medium",
+    "eating_habit": "spender",
+    "social": "low",
+    "subscriptions": "none",
+    "shopping": "moderate",
+    "buying_behavior": "patient",
+    "tracking": "occasional",
+    "saving": "occasional",
+    "money_management": "poor"
+  },
+  "risk_score": 9,
+  "completed_at": "2026-01-09T18:08:59.653058"
+}
